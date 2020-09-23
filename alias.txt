@@ -1,0 +1,5 @@
+alias graph="git log --all -10 --oneline --decorate --graph"
+alias tinker="php artisan tinker"
+alias model="php artisan make:model"
+alias controller="php artisan make:controller"
+alias status="git status"
